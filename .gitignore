@@ -1,0 +1,15 @@
+.DS_Store
+src/etc/settings/local.py
+__pycache__
+*.sqlite3
+*.reload
+*.log
+# *.xml
+*.pyc
+*.iml
+00*.py
+log/
+run/
+.idea/
+venv/
+migrations/
